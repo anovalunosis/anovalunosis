@@ -9,7 +9,6 @@ I'm [novalunosis](https://github.com/anovalunosis), a passionate developer on a 
 I believe in continuous learning and staying up-to-date with the latest technologies. Currently, I'm diving into:
 
 - Ethereum Smart Contracts 🔗
-- GraphQL 🌐
 - Cairo 1.0 
 - Data Analytics 📊 
   - Fivetran
@@ -17,6 +16,7 @@ I believe in continuous learning and staying up-to-date with the latest technolo
   - dbt
   - Bigquery
   - Google Cloud
+  - GraphQL
 
 ## 📈 GitHub Stats
 

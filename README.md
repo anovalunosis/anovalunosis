@@ -18,10 +18,6 @@ I believe in continuous learning and staying up-to-date with the latest technolo
   - Google Cloud
   - GraphQL
 
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anovalunosis)](https://github.com/anovalunosis/github-readme-stats)
-
 ## 📫 Let's Connect
 
 I'm always open to collaborating on new projects or discussing interesting ideas. Connect with me on:

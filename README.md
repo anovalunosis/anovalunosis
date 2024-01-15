@@ -10,6 +10,7 @@ I believe in continuous learning and staying up-to-date with the latest technolo
 
 - Ethereum Smart Contracts 🔗
 - Cairo 1.0 
+- Running a Farcaster hubble node on Google cloud 🌐
 - Data Analytics 📊 
   - Fivetran
   - Airflow
